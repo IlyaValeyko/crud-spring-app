@@ -1,0 +1,20 @@
+# Compiled files
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# Maven wrapper (если есть)
+mvnw
+mvnw.cmd
+.mvn/
+
+# OS files
+Thumbs.db
+.DS_Store
