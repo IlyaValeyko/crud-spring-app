@@ -10,7 +10,7 @@ target/
 # Logs
 *.log
 
-# Maven wrapper (если есть)
+# Maven wrapper
 mvnw
 mvnw.cmd
 .mvn/
